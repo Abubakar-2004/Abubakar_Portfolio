@@ -29,7 +29,7 @@
 class AbubakarJ:
     def __init__(self):
         self.name        = "Abubakar J"
-        self.role        = "AI Engineer | Full Stack Developer"
+        self.role        = "Aspiring AI Engineer | Full Stack Developer"
         self.location    = "Bengaluru, India 🇮🇳"
         self.email       = "abubakarmca1@gmail.com"
         self.portfolio   = "https://abubakar-2004.github.io/Abubakar_Portfolio/"
